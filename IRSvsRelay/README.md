@@ -1,4 +1,4 @@
-# Intelligent Reflecting Surface vs Decode-and-Forword
+# Intelligent Reflecting Surface vs Decode-and-Forward
 
 - Compared IRS (Intelligent Reflecting Surfaces) with DF (Decode and Forward) relaying in terms of minimum transmit power requirements and maximum energy efficiency.
 - Computed minimum number elements (N<sub>min</sub>) required in IRS to beat DF for achieving higher data rate than DF.
